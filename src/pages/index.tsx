@@ -28,11 +28,7 @@ export default function Home() {
       }}
     >
       <div
-        className="bg-gray-900 text-white shadow-2xl rounded-lg p-8 w-full max-w-lg"
-        style={{
-          border: "1px solid rgba(255,255,255,0.1)",
-          boxShadow: "0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.6)",
-        }}
+        className="bg-gray-900 text-white rounded-lg p-8 w-full max-w-lg"
       >
           <img
             src="/me.jpeg"
